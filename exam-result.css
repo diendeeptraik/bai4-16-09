@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+table{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+table td{
+    padding-left: 5px;
+}
+table, td, tr, th{
+    border: 1px solid #000;
+}
+.bold{
+    font-weight: bold;
+    text-align: center;
+}
+td.result{
+    width: 400px;
+    text-align: right;
+    padding-right: 5px;
+}
